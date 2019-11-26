@@ -1,6 +1,6 @@
 {
     "title" : "New update available",
-    "message" : "- fixed some bugs\n - improved UI \n add Printer feture",
+    "message" : "- fixed some bugs\n - improved UI \n",
     "versionCode" : 1,
     "force" : false,
     "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk"
