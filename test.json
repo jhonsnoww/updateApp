@@ -1,1 +1,7 @@
-
+{
+    "title" : "New update available",
+    "message" : "- fixed some bugs\n - improved UI",
+    "versionCode" : 2,
+    "force" : false,
+    "link" : "http://www.bet555mix.com/android/555Test.apk"
+}
