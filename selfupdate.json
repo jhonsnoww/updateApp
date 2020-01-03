@@ -2,6 +2,6 @@
     "title" : "New update available",
     "message" : "- fixed some bugs\n - improved UI \n ဘာလြကွာ တင်းတယ်",
     "versionCode" : 2,
-    "force" : false,
+    "force" : true,
     "link" : "http://www.bet555mix.com/android/55Test.apk"
 }
